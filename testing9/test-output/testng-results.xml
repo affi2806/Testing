@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-05T06:41:01Z" name="Default suite" finished-at="2023-06-05T06:41:01Z" duration-ms="28">
+    <groups>
+    </groups>
+    <test started-at="2023-06-05T06:41:01Z" name="Default test" finished-at="2023-06-05T06:41:01Z" duration-ms="28">
+      <class name="com.example.testing9.ParallelTesting">
+        <test-method signature="TC_001()[pri:0, instance:com.example.testing9.ParallelTesting@181e731e]" started-at="2023-06-05T12:11:01Z" name="TC_001" finished-at="2023-06-05T12:11:01Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method signature="TC_002()[pri:0, instance:com.example.testing9.ParallelTesting@181e731e]" started-at="2023-06-05T12:11:01Z" name="TC_002" finished-at="2023-06-05T12:11:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+        <test-method signature="TC_003()[pri:0, instance:com.example.testing9.ParallelTesting@181e731e]" started-at="2023-06-05T12:11:01Z" name="TC_003" finished-at="2023-06-05T12:11:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+      </class> <!-- com.example.testing9.ParallelTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
